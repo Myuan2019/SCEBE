@@ -6,7 +6,7 @@
 ## Instruction
 The main function in SCEBE package is scebe_sim which can fit a linear mixed effects model with four commonly used approaches including *lme* in R package 'lme4',*nebe* for naieve empirical Bayes estimation, *gallop* for GALLOP and *scebe* for the proposed two-step simultaneous correction method. 
 
-The source codes and sample data are available at (http://github.com/Myuan2019//SCEBE)
+The source codes and sample data are available at (http://github.com/Myuan2019/SCEBE)
 
 ## Requirements
 
