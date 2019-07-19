@@ -4,7 +4,7 @@
 *2019/07/17*
 
 ## Instruction
-SCEBE is a R package that conducts high-dimension Genome-Wide Association Study (GWAS) for dynamic traits. The main function in SCEBE package is scebe_sim. Four approaches are included in SCEBE: (1) lme in R package 'lme4' (standard approach), (2) nebe, representing naive empirical Bayes estimation (Londono et al. 2013 and Meirelles et al. 2013), (3) gallop, representing Genome-wide Analysis of Largescale Longitudinal Outcomes using Penalization (GALLOP) (Sikorska et al 2015), and scebe, representing the proposed two-step simultaneous correction method.
+SCEBE is a R package that conducts high-dimension Genome-Wide Association Study (GWAS) for dynamic traits. The main function in SCEBE package is scebe_sim. Four approaches are included in SCEBE: (1) lme in R package 'lme4' (standard approach), (2) nebe, representing naive empirical Bayes estimation (Londono et al. 2013 and Meirelles et al. 2013), (3) gallop, representing Genome-wide Analysis of Largescale Longitudinal Outcomes using Penalization (GALLOP) (Sikorska et al. 2015), and scebe, representing the proposed two-step simultaneous correction method.
 
  The source codes and sample data are available at: http://github.com/Myuan2019/SCEBE
 
