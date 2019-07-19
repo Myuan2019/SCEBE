@@ -44,8 +44,11 @@ SCEBE requires the following R packages:
  
  - method: a character representing the dynamic GWAS method; can be one of the four: "lme","nebe","gallop" or  "scebe". 
  > (1) “lme”: data are analyzed by lmer in R/lme4; 
+ 
  > (2) “nebe”: naive empirical Bayes estimation from the base model without covariates;
+ 
  > (3) “gallop”: Genome-wide Analysis of Largescale Longitudinal Outcomes using Penalization (GALLOP);
+ 
  > (4) “scebe”: the proposed two stage simultaneous correction method based on EBEs.
  
  ## Output
