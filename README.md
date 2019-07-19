@@ -55,7 +55,7 @@ SCEBE requires the following R packages:
 
 - parameter estimate, standard error, p-value, running time,  and data preparation time for each SNP effect on intercept (b1) and slope (b2).
 
-- An example for fit0 
+- An example for fit0: 
 ```
 fit0 <-lmer(RAVLT_forgetting ~ day + (day | ID), data = Data)
 
