@@ -21,7 +21,7 @@ SCEBE requires the following R packages:
 
 ## Input
 
-- phenoData: a N by 3 dataframe with each row representing a sample; the four columns representing the patient ID, the response variable and the measuring time points, respectively.
+- phenoData: a N by 3 dataframe with each row representing a sample; the three columns representing the patient ID, the response variable and the measuring time points, respectively.
 > For example:
 
 | ID      |     RAVLT_forgetting| day|
