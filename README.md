@@ -80,7 +80,7 @@ convergence code 0; 3 optimizer warnings; 0 lme4 warnings
 
 - An example of output:
 ```
-s = scebe_sim(phenoData=Data,genoData=geno_mat1,fit0,Time="day, pheno="RAVLT_forgetting",
+s = scebe_sim(phenoData=Data,genoData=geno_mat1,fit0,Time="day", pheno="RAVLT_forgetting",
 method = "scebe")
 
 head(s)
